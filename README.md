@@ -13,7 +13,7 @@
 ```bash
 $ export GITHUB_USERNAME=ilya132075
 $ export GIST_TOKEN=x
-$ alias edit=<nano|vi|vim|subl>
+$ alias edit=subl
 ```
 
 ```ShellSession
